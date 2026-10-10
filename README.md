@@ -8,7 +8,7 @@
 | --- | --- |
 | 작성자 GitHub | [dave17code](https://github.com/dave17code) |
 | 제출 저장소 URL · 생성 예정 | `https://github.com/dave17code/b1-1-portfolio` |
-| 사이트 URL · 배포 예정 | `(https://dave17code.github.io/b1-1-dave17code-portfolio/)` | 
+| 사이트 URL · 배포 예정 | (https://dave17code.github.io/b1-1-dave17code-portfolio) | 
 
 ## 바로 시작하기
 
